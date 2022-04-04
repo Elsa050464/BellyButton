@@ -10,11 +10,9 @@ This particular project is used to present Rosa’s research about bacterial spe
 ![image](https://user-images.githubusercontent.com/93121665/161502630-58e3839d-5883-43af-840e-43c3ace5294d.png)
 
 ### Trace Object and Layout
-
 ![image](https://user-images.githubusercontent.com/93121665/161502887-58b7c92a-3165-4686-b099-24902823b512.png)
 
 ### Gauge Chart
-
 ![image](https://user-images.githubusercontent.com/93121665/161503158-2a445547-1ff4-4d62-b155-ba0494ad76b6.png)
 
 ### Dashboard
