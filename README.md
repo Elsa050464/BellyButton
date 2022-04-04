@@ -4,9 +4,11 @@ Not everyone can understand python and coding, so we need tools to help our audi
 This particular project is used to present Rosa’s research about bacterial species found in the navel of the individual that will produce high quality meat to be synthesized that will taste like beef. Her laboratory is partnered with Improbable Beef.  
 ## Summary 
 1.	Horizontal Bar Chart with a dropdown menu to display the top 10 OTUs found in that individual.
-2.	Create a Bubble Chart 
-3.	Trace Object and Layout
-4.	Gauge Chart
-5.	Dashboard
+2.	![image](https://user-images.githubusercontent.com/93121665/161502446-c08f55d3-2302-4f1e-9264-8dc415d58c73.png)
+3.	Create a Bubble Chart 
+4.	
+5.	Trace Object and Layout
+6.	Gauge Chart
+7.	Dashboard
 ## Resources
 * Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
