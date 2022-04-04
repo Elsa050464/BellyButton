@@ -9,9 +9,10 @@ Create a Bubble Chart
 ![image](https://user-images.githubusercontent.com/93121665/161502630-58e3839d-5883-43af-840e-43c3ace5294d.png)
 Trace Object and Layout
 ![image](https://user-images.githubusercontent.com/93121665/161502887-58b7c92a-3165-4686-b099-24902823b512.png)
-7.	Gauge Chart
+Gauge Chart
+![image](https://user-images.githubusercontent.com/93121665/161503158-2a445547-1ff4-4d62-b155-ba0494ad76b6.png)
+Dashboard
 
-8.	Dashboard
 
 ## Resources
 * Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
